@@ -26,7 +26,7 @@ solar-challenge-week0/
 │   ├── benin_clean.csv
 │   ├── sierra_leone_clean.csv
 │   ├── togo_clean.csv
-├── figures/
+├── dashboard_screenshots/
 │   ├── benin_time_series.png
 │   ├── sierra_boxplot.png
 │   ├── togo_heatmap.png
@@ -53,19 +53,19 @@ Open in browser at:
 ## Preview
 
 Benin – Time Series
-![Benin Time Series](./figures/benin_ghi_timeseries_full.png)
+![Benin Time Series](./dashboard_screenshots/benin_ghi_timeseries_full.png)
 
 Benin – Boxplot
-![Benin Boxplot](./figures/benin_ghi_boxplot.png)
+![Benin Boxplot](./dashboard_screenshots/benin_ghi_boxplot.png)
 
 Benin – Correlation Heatmap
-![Benin Heatmap](./figures/benin_correlation_heatmap.png)
+![Benin Heatmap](./dashboard_screenshots/benin_correlation_heatmap.png)
 
 Sierra Leone – RH Boxplot
-![Sierra Leone Boxplot](./figures/sierra_leone_rh_boxplot.png)
+![Sierra Leone Boxplot](./dashboard_screenshots/sierra_leone_rh_boxplot.png)
 
 Togo – DNI Time Series
-![Togo Time Series](./figures/togo_dni_timeseries.png)
+![Togo Time Series](./dashboard_screenshots/togo_dni_timeseries.png)
 
 
 ---
