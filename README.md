@@ -7,21 +7,25 @@ It includes exploratory data analysis (EDA), data cleaning, and cross-country co
 
 ## Project Structure
 
+
 solar-challenge-week0/
-├── notebooks/ # EDA notebooks per country
-│ ├── benin_eda.ipynb
-│ ├── sierra_leone_eda.ipynb
-│ └── togo_eda.ipynb
-├── data/ # Cleaned CSVs (ignored from Git)
-│ ├── benin_clean.csv
-│ ├── sierra_leone_clean.csv
-│ └── togo_clean.csv
-├── figures/ # Plots exported from notebooks
-├── app/ # (Optional) Bonus interactive dashboard
-├── src/ # Helper scripts
-├── scripts/ # Utility scripts
-├── requirements.txt
+├── app/
+│   ├── main.py
+│   ├── utils.py
+├── data/
+│   ├── benin_clean.csv
+│   ├── sierra_leone_clean.csv
+│   ├── togo_clean.csv
+├── dashboard_screenshots/
+│   ├── benin_time_series.png
+│   ├── sierra_boxplot.png
+│   ├── togo_heatmap.png
+│   ├── togo_time_series.png
+│   ├── benin_boxplot.png
 └── README.md
+
+
+
 
 ---
 
